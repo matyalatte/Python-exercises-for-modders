@@ -1,0 +1,9 @@
+dog
+fish
+deer
+cat
+Who are you?
+lion
+frog
+cat
+Hello.
