@@ -12,13 +12,3 @@ def read_string(f):
     f.seek(1,1)
     
     return string
-
-file = "test_string.bin"
-
-f = open(file, "rb")
-
-string=read_string(f)
-print("string: "+string)
-print("length: {}".format(len(string)))
-
-f.close()

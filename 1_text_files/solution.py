@@ -1,9 +1,9 @@
 '''
-A. Read sample.txt, count the number of lines that is 'cat', and write the result.
+A. Read test.txt, count the number of lines that is 'cat', and write the result.
 '''
 
 #Read lines
-f = open("sample.txt", "r")
+f = open("test.txt", "r")
 lines= f.read().splitlines()
 f.close()
 
@@ -23,7 +23,7 @@ if count==1:
 else:
     message="There are " + str(count) + " cats."
 
-#Write the result
+#Write the result to output.txt
 f = open("output.txt", "w")
 f.write(message)
 f.close()

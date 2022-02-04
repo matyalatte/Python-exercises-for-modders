@@ -1,17 +1,15 @@
 '''
-We need to read binary data.
-So, you should understand how to handle it.
+Exercise.2 Read a string
 
-Exercise2 Read Binary
-
-    We want to read string data as binary.
+    We want to read string data from a binary file.
     The format is as follows.
 
     * First 4-byte is the length of strings plus 1.
     * The last 1-byte is 0.
-    * The rest of the binary data is a string as utf-8.
+    * The rest of the binary data is a string as ascii.
 
     For example,
+    
     "hello!" will be represented in the format as "07 00 00 00 68 65 6C 6C 6F 21 00".
     "dog" will be "04 00 00 00 64 6F 67 00".
     "Bruh" will be "05 00 00 00 42 72 75 68 00".
@@ -26,6 +24,8 @@ Exercise2 Read Binary
 def read_string(f):
     #write code here!
 
+
+#Don't edit below
 file = "test_string.bin"
 
 f = open(file, "rb")

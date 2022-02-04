@@ -1,12 +1,13 @@
 '''
-We need to read and write text data.
-So, you should understand how to handle text files.
+Exercise.1 Text Files
 
-Exercise1 Read and Write Text
+    We need to read and write files.
+    So, you should understand how to handle them.
+
     Q. What's the purpose of this program?
 '''
 
-f = open("sample.txt", "r")
+f = open("test.txt", "r")
 lines= f.read().splitlines()
 f.close()
 
