@@ -1,7 +1,10 @@
-#We need to read and write text data.
-#So, you should understand how to handle text files.
+'''
+We need to read and write text data.
+So, you should understand how to handle text files.
 
-#Q. What's the purpose of this program?
+Exercise1 Read and Write Text
+    Q. What's the purpose of this program?
+'''
 
 f = open("sample.txt", "r")
 lines= f.read().splitlines()
