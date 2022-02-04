@@ -17,4 +17,4 @@ Also, if you learn Python, you will be able to make Blender scripts!<br>
 ## How to Use
 Each folder has an exercise.<br>
 Open `exercise.py` with editor and read comments.<br>
-The answer is written in `answer.py`.
+The solution is written in `solution.py`.
