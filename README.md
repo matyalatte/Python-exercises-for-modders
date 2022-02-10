@@ -18,3 +18,11 @@ Also, if you learn Python, you will be able to make Blender scripts!<br>
 Each folder has an exercise.<br>
 Open `exercise.py` with editor and read comments.<br>
 The solution is written in `solution.py`.
+
+## Donate
+All exercises are free, but I need donations to continue my activities.<br>
+I would appreciate it if you would become a patron from the following page.<br>
+<br>
+[MatyaModding is creating Python exercises for modding | Patreon](https://www.patreon.com/user?u=69368008)<br>
+<br>
+Thank you.
