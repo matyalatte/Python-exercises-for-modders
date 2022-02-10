@@ -11,7 +11,7 @@ So, I think it is the best language for beginner modders.<br>
 Also, if you learn Python, you will be able to make Blender scripts!<br>
 
 ## Notes
-- Finish a Python tutorial somewhere before solving them. [Programiz](https://www.programiz.com/python-programming/tutorial) has a good tutorial.
+- Finish a Python tutorial somewhere before solving them.
 - Use Python3.x. (There are 2 kinds of Python. 2.x and 3.x.)
 
 ## How to Use
