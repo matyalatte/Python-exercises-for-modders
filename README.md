@@ -2,7 +2,9 @@
 
 ## About
 Python exercises for modders.<br>
-If you want to mod binary data in games with Python, you need to be able to solve these exercises.
+If you want to mod binary data in games with Python, you need to be able to solve these exercises.<br>
+This repository is not yet complete.<br>
+I will update it gradually with your donations.<br>
 
 ## Why Python?
 There are better languages for binary editing.<br>
@@ -30,4 +32,5 @@ Thank you.
 ## Sponsors
 Thank you all for donations!
 - TerryXXX (since Feb 2022)
-- Narknon (Since Feb 2022)
+- Narknon (since Feb 2022)
+- Lucas Avila (since Feb 2022)
