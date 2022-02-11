@@ -26,3 +26,8 @@ I would appreciate it if you would become a patron from the following page.<br>
 [MatyaModding is creating Python exercises for modding | Patreon](https://www.patreon.com/user?u=69368008)<br>
 <br>
 Thank you.
+
+## Sponsors
+Thank you all for donations!
+- TerryXXX (since Feb 2022)
+- Narknon (Since Feb 2022)
